@@ -1,0 +1,4 @@
+[submodule "external/OpenCV"]
+	path = external/OpenCV
+	url = https://github.com/opencv/opencv
+	shallow = true
